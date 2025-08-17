@@ -7,4 +7,6 @@ a collection of all machine learning work:
   Model: Flan-T5 PERF/LoRA for fine tuning, RoBERTa
   Evaluation: ROUGE metrics
   Use cases: Tokenization, Summarization, Infenrence, Sentiment Analysis
-  
+
+- ml_use_cases
+  This is a folder includes all exercises I've practiced to apply different machine learning modeling to application that I am interested. For example, rating system, image compression, etc. 
